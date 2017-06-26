@@ -1,0 +1,19 @@
+{
+  "name": "chuck_norris_frontend_project",
+  "version": "1.0.0",
+  "description": "frontend app for joke app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesGotsell/jokeAppFrontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesGotsell/jokeAppFrontend/issues"
+  },
+  "homepage": "https://github.com/JamesGotsell/jokeAppFrontend#readme"
+}
