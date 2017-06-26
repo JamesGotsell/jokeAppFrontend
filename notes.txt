@@ -1,0 +1,35 @@
+ use bem class naming 
+
+i think i should have a landing page that has shows all the liked jokes 
+
+
+users an view other users lists of jokes and like or dislike 
+
+
+think about what actions are you going to write
+
+- action user login 
+	payload 
+	email 
+	password 
+
+	user logout 	
+	payload 
+	user id 
+
+	addjoke 
+	user id 
+	joke id 
+	value 
+
+	deletejoke 
+	user id 
+	joke id 
+
+	likeJoke 
+	userID - this user liked this joke 
+	increment
+
+	dislikeJoke 
+	user id 
+	deincrement 
